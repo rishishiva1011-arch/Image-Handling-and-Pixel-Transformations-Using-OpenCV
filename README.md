@@ -1,7 +1,9 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
 
 **Name:** Rishikesh S
+
 **Register Number:** 212225240118
+
 **Experiment:** Image Handling and Pixel Transformations Using OpenCV
 
 ---
@@ -321,66 +323,83 @@ plt.axis("off")
 
 ## OUTPUT
 
-#The following outputs are obtained:
+# The following outputs are obtained:
 
-#1. Original image displayed using OpenCV and Matplotlib.
+## 1. Original image displayed using OpenCV and Matplotlib.
 
-![alt text](image.png)
-
-
-
-
-#2. Image with a line drawn from the top-left to the bottom-right.
+<img width="1389" height="1218" alt="image" src="https://github.com/user-attachments/assets/878ce748-cd26-4f09-8035-b366a4d2b6ff" />
 
 
 
+<br>
+
+## 2. Image with a line drawn from the top-left to the bottom-right.
+
+<img width="1371" height="1218" alt="image" src="https://github.com/user-attachments/assets/e9d590bd-97d2-49a0-a69f-7cc7ab9fcd17" />
+
+<br>
 
 
-#3. Image with a circle at the center.
+## 3. Image with a circle at the center.
+
+<img width="1401" height="1227" alt="image" src="https://github.com/user-attachments/assets/e521380b-b82f-4238-b813-ebe6ce4a887d" />
+<br>
+
+## 4. Image with a rectangle around its boundary.
+
+<img width="1389" height="1203" alt="image" src="https://github.com/user-attachments/assets/7f5f0727-89dd-49e4-acc3-ad49d67e257d" />
+<br>
+
+## 5. Image with the text "OpenCV Drawing".
 
 
+<img width="1407" height="1224" alt="image" src="https://github.com/user-attachments/assets/2a786a84-70c4-4b6e-b56a-d756b15fd977" />
+<br>
 
-#4. Image with a rectangle around its boundary.
+## 6. HSV, grayscale, and YCrCb color space conversions.
 
-
-
-#5. Image with the text "OpenCV Drawing".
-
-
-
-
-#6. HSV, grayscale, and YCrCb color space conversions.
-
-
+<img width="1371" height="1215" alt="image" src="https://github.com/user-attachments/assets/2257a4cd-48d1-42ed-88ee-017ae80bf0a0" />
+<br>
+<img width="1401" height="1221" alt="image" src="https://github.com/user-attachments/assets/f498c649-3859-4b9b-8cf1-499173acb6e2" />
+<br>
+<img width="1362" height="1206" alt="image" src="https://github.com/user-attachments/assets/4ff1d047-32fe-4c87-8c5b-7e5c93959163" />
+<br>
 
 
-
-#7. Image converted from HSV back to RGB.
-
+## 7. Image converted from HSV back to RGB.
 
 
+<img width="1392" height="1221" alt="image" src="https://github.com/user-attachments/assets/4ec70f6a-4133-4114-b67d-01a833c8097f" />
+<br>
 
-#8. Pixel value displayed and a white region added to the image.
+## 8. Pixel value displayed and a white region added to the image.
 
+<img width="1395" height="1224" alt="image" src="https://github.com/user-attachments/assets/63266d3f-0678-489f-a9e8-047426a31f35" />
+<br>
 
+## 9. Image resized to half its original dimensions.
 
-#9. Image resized to half its original dimensions.
-
-
-
-
-#10. Cropped region of interest displayed.
-
-
-#11. Horizontally flipped image displayed.
+<img width="978" height="1221" alt="image" src="https://github.com/user-attachments/assets/37f782ca-79d6-447e-b29e-9fc08491ce8f" />
+<br>
 
 
+## 10. Cropped region of interest displayed.
 
-#12. Vertically flipped image displayed.
+<img width="1197" height="1218" alt="image" src="https://github.com/user-attachments/assets/ed44a3f9-fc6a-438d-8001-360da8605411" />
+<br>
+
+## 11. Horizontally flipped image displayed.
+
+<img width="1374" height="1200" alt="image" src="https://github.com/user-attachments/assets/8a5ab5f6-90d1-4c83-a385-e1989c425612" />
+<br>
 
 
+## 12. Vertically flipped image displayed.
 
-## RESULT
+<img width="1410" height="1224" alt="image" src="https://github.com/user-attachments/assets/9153a4e3-574a-41a8-ae35-37a74193c03b" />
+<br>
+
+# RESULT
 
 Thus, image handling and pixel transformations were performed using Python, OpenCV, and Matplotlib. The experiment demonstrated image reading, shape drawing, text insertion, color space conversion, pixel manipulation, image resizing, cropping, flipping, and saving.
 
