@@ -1,10 +1,10 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
 
-*Name:* Rishikesh S
+### Name: Rishikesh S
 
-*Register Number:* 212225240118
+### Register Number: 212225240118
 
-*Experiment:* Image Handling and Pixel Transformations Using OpenCV
+### Experiment: Image Handling and Pixel Transformations Using OpenCV
 
 ---
 
